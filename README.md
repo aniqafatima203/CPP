@@ -1,7 +1,3 @@
-C++
+ C++ Practice
 
-
-  C++ Practice
-
-
-  It contains all of my practice for C++
+ It contains all of my practice for C++... 
