@@ -14,20 +14,20 @@ int main(){
 	
 	switch(a)
 	{
-		case 'p':
-		cout<<"Paradise lost ,price:Rs.350";
-		break;
-	        case 'a':
-		    cout<<"Atomic habits ,price:Rs.430";
-			break;
-			    case 'h':
-	            cout<<"Hacking ,price:Rs.500";
-			    break;
-				    case 's':
-		            cout<<"Psycology of money ,price:Rs.450";
-				    break;
-				    default:
-				    	cout<<"Sorry! We don't have this book";	
-				}
-				return 0;
+	case 'p':
+	cout<<"Paradise lost ,price:Rs.350";
+	break;
+	      case 'a':
+	      cout<<"Atomic habits ,price:Rs.430";
+	      break;
+	           case 'h':
+	           cout<<"Hacking ,price:Rs.500";
+		   break;
+			case 's':
+		        cout<<"Psycology of money ,price:Rs.450";
+		        break;
+	default:
+        cout<<"Sorry! We don't have this book";	
+	}
+	return 0;
 }
